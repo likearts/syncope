@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sycope/static/css/main.b100e6da.chunk.css",
-    "main.js": "/sycope/static/js/main.5c455bae.chunk.js",
-    "main.js.map": "/sycope/static/js/main.5c455bae.chunk.js.map",
-    "runtime-main.js": "/sycope/static/js/runtime-main.c2124f62.js",
-    "runtime-main.js.map": "/sycope/static/js/runtime-main.c2124f62.js.map",
-    "static/js/2.eff423a0.chunk.js": "/sycope/static/js/2.eff423a0.chunk.js",
-    "static/js/2.eff423a0.chunk.js.map": "/sycope/static/js/2.eff423a0.chunk.js.map",
+    "main.css": "/syncope/static/css/main.b100e6da.chunk.css",
+    "main.js": "/syncope/static/js/main.5c455bae.chunk.js",
+    "main.js.map": "/syncope/static/js/main.5c455bae.chunk.js.map",
+    "runtime-main.js": "/syncope/static/js/runtime-main.c2124f62.js",
+    "runtime-main.js.map": "/syncope/static/js/runtime-main.c2124f62.js.map",
+    "static/js/2.eff423a0.chunk.js": "/syncope/static/js/2.eff423a0.chunk.js",
+    "static/js/2.eff423a0.chunk.js.map": "/syncope/static/js/2.eff423a0.chunk.js.map",
     "index.html": "/sycope/index.html",
-    "precache-manifest.b1e319e26efd584a07c4b845f232eda5.js": "/sycope/precache-manifest.b1e319e26efd584a07c4b845f232eda5.js",
-    "service-worker.js": "/sycope/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/sycope/static/css/main.b100e6da.chunk.css.map"
+    "precache-manifest.b1e319e26efd584a07c4b845f232eda5.js": "/syncope/precache-manifest.b1e319e26efd584a07c4b845f232eda5.js",
+    "service-worker.js": "/syncope/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/syncope/static/css/main.b100e6da.chunk.css.map"
   }
 }
