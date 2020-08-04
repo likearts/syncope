@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://likearts.github.io/syncope/",
+  "start_url": "./syncope/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
